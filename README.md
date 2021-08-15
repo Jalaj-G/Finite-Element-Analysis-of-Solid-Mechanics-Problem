@@ -27,7 +27,7 @@ The temperature distribution in the body is shown in the figure below. There is 
 Percentage accuracy can be calculated as: (316.41/316.6)*100 = 99.939 or 99.94
 
 # Third Problem
-To find the stresses in the members of the truss subjected to load as shown below. (All the members have same cross sectional area with radius = 0.01m)
+To find the stresses in the members of the truss subjected to load as shown above. (All the members have same cross sectional area with radius = 0.01m)
 
 ![truss](https://user-images.githubusercontent.com/88960574/129481585-1894ecab-eb21-4eb8-9407-1befd8238ec8.png)
 
@@ -35,6 +35,6 @@ Results & Discussion:
 
 ![2d truss](https://user-images.githubusercontent.com/88960574/129481624-c038a6b8-7549-440e-9ce1-42b09a17102d.png)
 
-Stresses in various members of the truss is shown in the figure below. The stress values obtained from FEA simulation are almost equal to the analytical value. For e.g. Stress in member BD is 4.5032MPa which is in conjunction with value 4.504e+06Pa. We have considered the most stressed member of truss for accuracy calculation.
+Stresses in various members of the truss is shown in the figure above. The stress values obtained from FEA simulation are almost equal to the analytical value. For e.g. Stress in member BD is 4.5032MPa which is in conjunction with value 4.504e+06Pa. We have considered the most stressed member of truss for accuracy calculation.
 
 Percentage accuracy can be calculated as: (4.5032/4504)*100 = 99.982238 or 99.98
