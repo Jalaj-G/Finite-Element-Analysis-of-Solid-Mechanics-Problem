@@ -6,7 +6,10 @@ This problem has been taken from a research paper named “Experimental and nume
 ![dcb](https://user-images.githubusercontent.com/88960574/129481211-0b145efc-6536-4a15-9b92-ca98db3d3f81.png)
 
 
-Results & Discussion:
+**Results & Discussion:**
+![mode_1_fracture](https://user-images.githubusercontent.com/88960574/129711800-0f1d77f8-21d9-4c27-9afc-e2896b01c00d.png)
+
+
 Elastic material model has been assumed to describe the behaviour of the beech timber, while the behaviour of glue-lines has been modelled with the help of the Cohesive Zone Model (CZM). While simulating this problem, Elastic properties are only taken into consideration. This can be the possible reason for difference between Abaqus and Literature results.
 
 ![1st problem](https://user-images.githubusercontent.com/88960574/129481230-47cf7fd7-1e51-468f-a677-489afa1a81fb.png)
@@ -14,11 +17,11 @@ Elastic material model has been assumed to describe the behaviour of the beech t
 # Second Problem
 A small copper ball of 5 mm diameter at 500 K is dropped into an oil bath whose temperature is 300 K. The thermal conductivity of copper is 400 W/mK, its density 9000kg/m3 and its specific heat 400 J/kgK.1f the heat transfer coefficient is 250 W/m2K. We have to determine temperature of the sphere after 30 seconds (Lumped capacity analysis is assumed to be valid).
 
-Analytical Solution:
+**Analytical Solution:**
 
 ![2nd prob analytical](https://user-images.githubusercontent.com/88960574/129481340-5fdcd0b2-0ade-411a-83d9-8c09a138ab5f.png)
 
-Results & Discussion:
+**Results & Discussion:**
 
 ![Transient heat](https://user-images.githubusercontent.com/88960574/129481647-20807e88-61eb-44dc-84d7-c78622ef850f.png)
 
@@ -31,7 +34,7 @@ To find the stresses in the members of the truss subjected to load as shown abov
 
 ![truss](https://user-images.githubusercontent.com/88960574/129481585-1894ecab-eb21-4eb8-9407-1befd8238ec8.png)
 
-Results & Discussion:
+**Results & Discussion:**
 
 ![2d truss](https://user-images.githubusercontent.com/88960574/129481624-c038a6b8-7549-440e-9ce1-42b09a17102d.png)
 
